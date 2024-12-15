@@ -3,8 +3,8 @@
 [AoC 2024](https://adventofcode.com/2024)
 
 - [x] day 1
-- [ ] day 2
-- [ ] day 3
+- [x] day 2
+- [/] day 3 - only first part
 - [ ] day 4
 - [ ] day 5
 - [ ] day 6
